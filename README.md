@@ -1,0 +1,2 @@
+# Week01_Programming_Assignment_Brittany_Kennedy
+Repository for Week01 Programming Assignment Brittany Kennedy
